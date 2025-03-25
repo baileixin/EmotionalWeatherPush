@@ -7,4 +7,6 @@ weather_Hello/.env
 *.key
 *.pem
 
+__pycache__/
+
 execution_log.txt
