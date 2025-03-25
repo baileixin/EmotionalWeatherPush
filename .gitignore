@@ -1,0 +1,10 @@
+# 忽略环境变量文件
+weather_Hello/.env
+# 如有其他 .env 文件，也可忽略，例如：
+.env
+
+# 忽略其他可能的敏感文件
+*.key
+*.pem
+
+execution_log.txt
